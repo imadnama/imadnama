@@ -7,7 +7,6 @@
   Then replace every YOUR-USERNAME / link placeholder below.
 -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20views&color=0e75b6&style=flat)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emadnama@hotmail.com)
