@@ -117,10 +117,6 @@ A full-stack desktop app with a live Avalonia UI dashboard, using low-level Win3
 
 ## GitHub Stats
 
-![Imad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight)
-
 ---
 
 <p align="center"><i>Building secure, scalable software — one commit at a time.</i></p>
